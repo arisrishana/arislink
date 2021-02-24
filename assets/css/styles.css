@@ -1,0 +1,48 @@
+*{
+ 	font-family: "Kanit";
+ 	/*1rem/em = 16px*/
+}
+
+body {
+ 	background: #0E0F14;
+	color: #DDD;
+}
+
+.btn-link{
+	height: 3em;
+	width: 20em;
+	margin: .8em;
+	text-align: center;
+	text-decoration: none;
+	color: #DDD;
+	background: #0E0F14;
+	border: 2px solid #DDD;
+	border-radius: 5px;
+}
+
+.btn-link:hover{
+	text-decoration: none;
+	background: #DDD;
+	color: #0E0F14;
+}
+
+.btn-link:focus{
+	text-decoration: none;
+	background: #DDD;
+	color: #0E0F14;
+}
+
+.img-profile{
+	width: 10em;
+	height: 10em;
+	margin: 2em;
+}
+
+#created{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.img-logo{
+	height: 1em;
+}
