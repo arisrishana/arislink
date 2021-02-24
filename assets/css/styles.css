@@ -5,7 +5,7 @@
 
 body {
  	background: #0E0F14;
-	color: #DDD;
+	color: #FFF;
 }
 
 .btn-link{
@@ -14,21 +14,21 @@ body {
 	margin: .8em;
 	text-align: center;
 	text-decoration: none;
-	color: #DDD;
+	color: #FFF;
 	background: #0E0F14;
-	border: 2px solid #DDD;
+	border: 2px solid #FFF;
 	border-radius: 5px;
 }
 
 .btn-link:hover{
 	text-decoration: none;
-	background: #DDD;
+	background: #FFF;
 	color: #0E0F14;
 }
 
 .btn-link:focus{
 	text-decoration: none;
-	background: #DDD;
+	background: #FFF;
 	color: #0E0F14;
 }
 
